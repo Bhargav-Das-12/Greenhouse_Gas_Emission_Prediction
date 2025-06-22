@@ -74,15 +74,15 @@ We aim to predict `GHG_Emissions_kgCO2e` using machine learning models.
 7. Comparative Study & Best Model Selection  
 
 ## 📁 Folder Structure
-Greenhouse_Gas_Emission_Prediction/
+``` `` `Greenhouse_Gas_Emission_Prediction/
  ├── SupplyChainEmissionFactorsforUSIndustriesCommodities.xlsx
  ├── GHG_Emissions_Prediction.ipynb
- └── README.md
+ └── README.md` `` ```
 
 ## 🛠️ Project Setup Instructions (Clone & Run)
 
 ### 📦 Clone the Repository
 
-```bash
+``` ``bash
 git clone https://github.com/Bhargav-Das-12/Greenhouse_Gas_Emission_Prediction.git
-cd Greenhouse_Gas_Emission_Prediction
+cd Greenhouse_Gas_Emission_Prediction`` ```
