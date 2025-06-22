@@ -75,9 +75,9 @@ We aim to predict `GHG_Emissions_kgCO2e` using machine learning models.
 
 ## 📁 Folder Structure
 Greenhouse_Gas_Emission_Prediction/
-├── SupplyChainEmissionFactorsforUSIndustriesCommodities.xlsx
-├── GHG_Emissions_Prediction.ipynb
-└── README.md
+ ├── SupplyChainEmissionFactorsforUSIndustriesCommodities.xlsx
+ ├── GHG_Emissions_Prediction.ipynb
+ └── README.md
 
 ## 🛠️ Project Setup Instructions (Clone & Run)
 
